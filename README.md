@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Building-QuantPortfolio-blueviolet)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![R](https://img.shields.io/badge/R-Intermediate-lightgrey)
+![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)
+
 # Hi, I'm Alberto 👋
 
 I'm a Financial Risk Management graduate and consultant with experience at KPMG and Deloitte, now exploring the application of machine learning to **Quantitative Finance**, **Economics**, and **Financial Risk Analytics**.
