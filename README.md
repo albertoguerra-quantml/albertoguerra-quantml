@@ -3,6 +3,10 @@
 ![R](https://img.shields.io/badge/R-Intermediate-lightgrey)
 ![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)
 
+<p align="center">
+  <img src="https://github.com/albertoguerra-quantml/albertoguerra-quantml/raw/main/Banner.png" alt="Alberto Guerra Banner"/>
+</p>
+
 # Hi, I'm Alberto 👋
 
 I'm a Financial Risk Management graduate and consultant with experience at KPMG and Deloitte, now exploring the application of machine learning to **Quantitative Finance**, **Economics**, and **Financial Risk Analytics**.
