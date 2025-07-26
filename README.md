@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Alberto 👋
 
-<!--
-**albertoguerra-quantml/albertoguerra-quantml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Financial Risk Management graduate and consultant with experience at KPMG and Deloitte, now exploring the application of machine learning to **Quantitative Finance**, **Economics**, and **Financial Risk Analytics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Background
+
+- 💼 **Consultant @ KPMG US & Deloitte US** – Working on large-scale enterprise modeling, Anaplan deployments, and digital finance transformations across Fortune 500 clients.
+- 🎓 **MSc in Financial Risk Management** – GPA 3.95. Strong foundation in risk modeling, econometrics, and ML algorithms.
+- 🧠 **Tech Skills** – Python, R, Matlab, Stata, SAP Analytics Cloud, Anaplan, Bloomberg.
+
+---
+
+## 🔍 Interests
+
+I'm currently exploring:
+- Quant projects involving ML alghritms in **Risk Analytics** and **Econometrics**
+- Applications of **machine learning in asset allocation, macro forecasting, and risk analytics**
+- Long-term goal: Pursuing a **PhD in Finance + AI**
+  
+---
+
+## 📂 Highlighted Projects (in progress)
+
+- `quant-risk-vol-modeling` — Volatility modeling with GARCH and backtesting VaR strategies
+- `regime-shift-portfolio-optimization` — Macro regime detection + allocation strategies using ML
+- `ml-finance-sandbox` — Explorations in time series, reinforcement learning, and deep learning for finance
+
+---
+
+## 🛠️ What I’m Working On
+
+- Building a public quant portfolio here on GitHub 🧪
+- Writing about my learning and projects on [LinkedIn](https://linkedin.com/in/alberto–guerra/)
+
+---
+
+## 🏃🏽‍♂️ Hobbies
+
+- Reading books about professional/personal development, history, finance, and economics.
+- Fashion and Photography
+- Fut-bol and running
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 [Email](mailto:albertoguerra546@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/alberto–guerra/)
+
+---
+
+> “Sharpening the sword quietly, one model at a time.”
