@@ -15,6 +15,7 @@ I'm a Financial Risk Management graduate and consultant with experience at KPMG 
 - 🎓 **MSc in Financial Risk Management** – GPA 3.95. Strong foundation in risk modeling, econometrics, and ML algorithms.
 - 🎓 **BA in Economics** – GPA 3.41. Strong foundation in macroeconometrics, statistical modeling and R.
 - 🧠 **Tech Skills** – Python, R, Matlab, Stata, SAP Analytics Cloud, Anaplan, Bloomberg.
+- 💻 **Certifications** - Machine Learning Specialization (Stanford) and Anaplan Level 3
 
 ---
 
