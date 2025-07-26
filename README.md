@@ -11,7 +11,7 @@ I'm a Financial Risk Management graduate and consultant with experience at KPMG 
 
 ## 💼 Background
 
-- 💼 **Consultant @ KPMG US & Deloitte US** – Working on large-scale enterprise modeling, Anaplan deployments, and digital finance transformations across Fortune 500 clients.
+- 💼 **Consultant @ KPMG US & @ Deloitte US** – Working on large-scale enterprise modeling, Anaplan deployments, and digital finance transformations across Fortune 500 clients.
 - 🎓 **MSc in Financial Risk Management** – GPA 3.95. Strong foundation in risk modeling, econometrics, and ML algorithms.
 - 🎓 **BA in Economics** – GPA 3.41. Strong foundation in macroeconometrics, statistical modeling and R.
 - 🧠 **Tech Skills** – Python, R, Matlab, Stata, SAP Analytics Cloud, Anaplan, Bloomberg.
